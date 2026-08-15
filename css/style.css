@@ -1,0 +1,5 @@
+#magiekreisCanvas {
+    border: 1px solid black;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+}
